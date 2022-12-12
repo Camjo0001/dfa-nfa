@@ -1,0 +1,18 @@
+{
+  "name": "nfa-dfa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "d3": "^7.7.0",
+    "finite-automata": "^3.4.1",
+    "regex-to-dfa": "^1.0.11"
+  }
+}

@@ -1,0 +1,12 @@
+.btn { 
+    background-color: aqua;
+    padding-inline: 20px;
+    padding-block: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.btn:hover { 
+    background-color: rgb(0, 228, 228);
+}
